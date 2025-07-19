@@ -35,12 +35,18 @@
 ---
 
 ### 📊 Projects
-- 🧾 [Sales Dashboard Analysis](https://github.com/Clemzy001/your-project-link) – Excel & Power BI dashboard to analyze monthly sales trends
-- 🏥 [Hospital Data Analytics](https://github.com/Clemzy001/your-project-link) – Python + Pandas + Matplotlib to explore patient readmission rates
-- 📈 [Customer Segmentation](https://github.com/Clemzy001/your-project-link) – Clustering customers using KMeans and RFM analysis
 
-(Replace links with real project URLs from your repos)
+- 🛒 [*Blinkit Sales Analysis in Python*](https://github.com/Clemzy001/Blinkit-Analysis-in-Python-Project)  
+  Analyzes Blinkit's sales data using Python (Pandas, Matplotlib) to derive performance insights.
 
+- 🗳 [*India General Election 2024 – SQL Analysis*](https://github.com/Clemzy001/india_election_queries.sql)  
+  Uses raw SQL queries to uncover patterns and outcomes in the 2024 Indian election results.
+
+- 🏪 [*Walmart Sales Data Analysis (SQL)*](https://github.com/Clemzy001/Walmart-Sales-Data-Analysis-in-SQL)  
+  Studies how sales strategies can be optimized by analyzing Walmart transaction data using SQL.
+
+- ☕ [*Coffee Shop Sales Dashboard in Excel*](https://github.com/Clemzy001/Coffee-Shop-Sales-Analysis-in-Excel)  
+  An Excel dashboard analyzing retail sales trends from "Start Your Day With Coffee" shop.
 ---
 
 ### 📫 Let's Connect
